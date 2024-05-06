@@ -1,4 +1,10 @@
-***Implementation of H-infinity filter algorithm with Adaptive Noise Cancellation scheme on FPGA***
+Project name: Study on FPGA-based computation units for Ocular Artifact Removal filter algorithm for multi-channel Electroencephalography(EEG)
+Creator: Reddy, Vishal Reddy 
+Mentor : Contreras Vidal, Jose L
+Lab name: IUCRC BRAIN
+Date: 05/06/2024
+
+
 Data files used for testing and validation:
 
 	Input from MATLAB: EEG_data_HPF_input_float_from_MATLAB.csv
