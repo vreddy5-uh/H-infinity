@@ -1,4 +1,4 @@
-Project name: Study on FPGA-based computation units for Ocular Artifact Removal filter algorithm for multi-channel Electroencephalography(EEG)
+Project name: Study on FPGA-based computation units for Ocular Artifact Removal filter algorithm for multi-channel Electroencephalography (EEG)
 
 Creator: Reddy, Vishal Reddy 
 
